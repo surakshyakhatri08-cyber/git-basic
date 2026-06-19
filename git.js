@@ -20,6 +20,8 @@
 //branching
 //git branch                        -> lists all local branches
 //git branch <branch_name>          -> create new branch
+//git branch -d <branch_name>       -> delete branch / soft
+//git branch -D <branch_name        -> delete branch / hard
 //git switch <branch_name>          -> switch between branches
 //git switch -c <branch_name>       -> create and switch to new branch
 //git checkout <branch_name>
@@ -53,6 +55,10 @@
 
 //revert //changes in teamwork
 //git revert <commit_id>
+
+
+//restore // one step back in file changes
+//git restore <file_name>
 
 
 //test branch
