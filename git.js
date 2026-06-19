@@ -34,6 +34,25 @@
 
 //rebase
 // git rebase <branch_name>
+//main: A -> B -> C -> F -> G
+//test:           C -> D -> E
+//test:           c -> F -> G -> D' -> E' //rebase
+
+
+//cherry-pick <commit-id>
+//git cherry-pick 6619818
+//main: A -> B -> C -> F -> G -> D'
+//fix:            C -> D -> E
+
+
+//reset //commpletely delete history //changes in local 
+// git reset <commit_id>
+// git reset --soft <commit_id>
+// git reset --mixed <commit_id>
+// git reset --hard <commit_id>
+
+//revert //changes in teamwork
+//git revert <commit_id>
 
 
 //test branch
