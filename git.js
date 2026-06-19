@@ -22,6 +22,8 @@
 //git branch <branch_name>          -> create new branch
 //git switch <branch_name>          -> switch between branches
 //git switch -c <branch_name>       -> create and switch to new branch
+//git checkout <branch_name>
+//git checkout -b <branch_name>
 
 
 
