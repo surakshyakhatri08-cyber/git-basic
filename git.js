@@ -31,6 +31,11 @@
 //merge
 //git merge <branch_name>
 
+
+//rebase
+// git rebase <branch_name>
+
+
 //test branch
 //test branch
 //test branch
