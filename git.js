@@ -24,8 +24,8 @@
 //git branch -D <branch_name        -> delete branch / hard
 //git switch <branch_name>          -> switch between branches
 //git switch -c <branch_name>       -> create and switch to new branch
-//git checkout <branch_name>
-//git checkout -b <branch_name>
+//git checkout <branch_name>        -> create new branch
+//git checkout -b <branch_name>     -> create and switch to new branch
 
 
 
@@ -61,7 +61,12 @@
 //git restore <file_name>
 
 
-//test branch
-//test branch
-//test branch
-//test branch
+//PR -> Pull Request
+//main -> production
+//develop -> integration
+//feature/ -> feature/login
+//fix -> fix/
+//hotfix -> hotfix/
+
+
+
